@@ -20,7 +20,8 @@ All output CSVs are in `Results`.
 2. Download the dataset from Kaggle ("Bangalore Traffic Pulse") and upload `Banglore_traffic_Dataset.csv` to Colab. It is not included here.
 3. Paste a script into a cell and run it.
 
-Requirements: Python 3, `osmnx`, `networkx`, `pandas`, `numpy`, `scipy`, and internet access. Versions used: [paste output of `pip show osmnx networkx pandas scipy`].
+Requirements: Python 3, `osmnx`, `networkx`, `pandas`, `numpy`, `scipy`, and internet access. Versions used: 2.1.1, 3.7, 2.2.3,
+
 
 ## Main settings
 
