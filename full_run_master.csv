@@ -1,0 +1,16 @@
+,observed_congestion,betweenness,priority_score,sim_vc_uniform_q60,sim_vc_center_weighted_q60,improve_radius_center_weighted,improve_radius_uniform,improve_equalsize_uniform
+100 Feet Road,87.11,0.0002,12.0,0.04,0.03,0.1,0.28,0.05
+CMH Road,88.18,0.0912,26.0,1.01,0.9,0.56,0.67,0.64
+Marathahalli Bridge,67.18,0.0182,13.0,0.49,0.2,0.01,0.09,0.21
+ITPL Main Road,71.1,0.0045,9.0,0.22,0.04,0.0,0.01,0.01
+Sony World Junction,94.13,0.0271,26.0,0.62,0.53,1.02,0.74,0.52
+Sarjapur Road,93.85,0.0486,27.0,0.73,0.56,0.41,0.62,0.26
+Trinity Circle,90.37,0.0686,26.0,0.98,1.28,6.36,2.16,0.52
+Anil Kumble Circle,90.78,0.0339,25.0,0.82,1.0,9.69,3.83,0.47
+Jayanagar 4th Block,76.71,0.0202,17.0,0.33,0.36,0.2,0.15,0.02
+South End Circle,77.28,0.0071,12.0,0.33,0.43,1.83,1.49,0.08
+Ballari Road / Hebbal Flyover,80.09,0.0131,14.0,0.39,0.26,0.12,0.35,0.35
+Yeshwanthpur Circle,63.74,0.0173,11.0,0.43,0.27,0.11,0.25,0.13
+Tumkur Road,60.95,0.0136,9.0,0.21,0.27,0.0,0.0,0.0
+Silk Board Junction,53.7,0.0192,10.0,1.32,1.04,0.33,0.53,0.24
+Hosur Road,55.2,0.0,3.0,0.02,0.01,0.0,0.0,0.0
