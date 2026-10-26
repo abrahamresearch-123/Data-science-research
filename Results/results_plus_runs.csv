@@ -1,0 +1,226 @@
+model,q,seed,site,n_treated,d_tstt_pct,d_over,spill,site_base_vc,design
+center_weighted,60,0,100 Feet Road,60,-0.0978503379373212,-7,0,0.001875,E1 equal60 x1.5 center
+center_weighted,60,0,CMH Road,60,-0.7028525916643563,-15,29,0.9068181818181817,E1 equal60 x1.5 center
+center_weighted,60,0,Marathahalli Bridge,60,-0.027869132865201793,0,0,0.11318181818181818,E1 equal60 x1.5 center
+center_weighted,60,0,ITPL Main Road,60,-3.335544147210149e-05,0,0,0.036704545454545455,E1 equal60 x1.5 center
+center_weighted,60,0,Sony World Junction,60,-0.6261359595113386,-19,41,0.5805681818181818,E1 equal60 x1.5 center
+center_weighted,60,0,Sarjapur Road,60,-0.09191936539783407,-9,7,0.5945454545454546,E1 equal60 x1.5 center
+center_weighted,60,0,Trinity Circle,60,-1.573307199401638,-18,34,1.327121212121212,E1 equal60 x1.5 center
+center_weighted,60,0,Anil Kumble Circle,60,-1.6021337364869936,-16,51,0.9675,E1 equal60 x1.5 center
+center_weighted,60,0,Jayanagar 4th Block,60,-0.0301696913733829,-2,8,0.29700000000000004,E1 equal60 x1.5 center
+center_weighted,60,0,South End Circle,60,-0.21596017078494606,-4,24,0.34,E1 equal60 x1.5 center
+center_weighted,60,0,Ballari Road / Hebbal Flyover,60,-0.08105435470196744,-2,0,0.30533333333333335,E1 equal60 x1.5 center
+center_weighted,60,0,Yeshwanthpur Circle,60,-0.029075484472673035,-5,0,0.236,E1 equal60 x1.5 center
+center_weighted,60,0,Tumkur Road,60,-0.0010940934689737908,0,0,0.28099999999999997,E1 equal60 x1.5 center
+center_weighted,60,0,Silk Board Junction,60,-0.09392230541239555,-11,5,0.8966666666666666,E1 equal60 x1.5 center
+center_weighted,60,0,Hosur Road,60,-0.0021435108146317023,0,0,0.04,E1 equal60 x1.5 center
+center_weighted,60,1,100 Feet Road,60,-0.03204309481500748,1,0,0.015,E1 equal60 x1.5 center
+center_weighted,60,1,CMH Road,60,-0.5358266711361599,-5,8,0.9695454545454545,E1 equal60 x1.5 center
+center_weighted,60,1,Marathahalli Bridge,60,-0.020936557275942895,0,0,0.18409090909090908,E1 equal60 x1.5 center
+center_weighted,60,1,ITPL Main Road,60,-0.00014170874630018953,0,0,0.03295454545454546,E1 equal60 x1.5 center
+center_weighted,60,1,Sony World Junction,60,-1.168698288622444,-11,29,0.5763068181818182,E1 equal60 x1.5 center
+center_weighted,60,1,Sarjapur Road,60,-0.08752294873281047,1,19,0.5654545454545454,E1 equal60 x1.5 center
+center_weighted,60,1,Trinity Circle,60,-0.9303462522579483,-22,17,1.2010606060606062,E1 equal60 x1.5 center
+center_weighted,60,1,Anil Kumble Circle,60,-1.3795292787419724,-9,28,0.9998958333333333,E1 equal60 x1.5 center
+center_weighted,60,1,Jayanagar 4th Block,60,-0.019485078028532353,-4,7,0.531,E1 equal60 x1.5 center
+center_weighted,60,1,South End Circle,60,-0.32611267121588716,-10,17,0.645,E1 equal60 x1.5 center
+center_weighted,60,1,Ballari Road / Hebbal Flyover,60,-0.12268697949005088,-2,0,0.252,E1 equal60 x1.5 center
+center_weighted,60,1,Yeshwanthpur Circle,60,-0.060319719981191296,0,5,0.26133333333333336,E1 equal60 x1.5 center
+center_weighted,60,1,Tumkur Road,60,-0.0025607674478733576,-1,0,0.35883333333333334,E1 equal60 x1.5 center
+center_weighted,60,1,Silk Board Junction,60,-0.174942957977031,-3,12,1.0759999999999998,E1 equal60 x1.5 center
+center_weighted,60,1,Hosur Road,60,-2.2557238321459743e-05,0,0,0.0,E1 equal60 x1.5 center
+center_weighted,60,2,100 Feet Road,60,-0.04570577575361491,-3,0,0.06375,E1 equal60 x1.5 center
+center_weighted,60,2,CMH Road,60,-0.265537388689687,-8,12,0.8277272727272726,E1 equal60 x1.5 center
+center_weighted,60,2,Marathahalli Bridge,60,-0.008946782771724789,0,0,0.3097727272727273,E1 equal60 x1.5 center
+center_weighted,60,2,ITPL Main Road,60,-0.0010743351562291115,-1,0,0.05215909090909091,E1 equal60 x1.5 center
+center_weighted,60,2,Sony World Junction,60,-0.4513152233007358,-4,0,0.44625000000000004,E1 equal60 x1.5 center
+center_weighted,60,2,Sarjapur Road,60,-0.11060357904376522,-7,5,0.5236363636363636,E1 equal60 x1.5 center
+center_weighted,60,2,Trinity Circle,60,-0.9134446299812496,-20,34,1.3106060606060606,E1 equal60 x1.5 center
+center_weighted,60,2,Anil Kumble Circle,60,-1.3985668621327152,-11,25,1.0361458333333333,E1 equal60 x1.5 center
+center_weighted,60,2,Jayanagar 4th Block,60,-0.015420824634110944,-1,0,0.23700000000000002,E1 equal60 x1.5 center
+center_weighted,60,2,South End Circle,60,-0.11501638482790127,-6,7,0.3025,E1 equal60 x1.5 center
+center_weighted,60,2,Ballari Road / Hebbal Flyover,60,-0.1947232698235211,-3,6,0.21466666666666667,E1 equal60 x1.5 center
+center_weighted,60,2,Yeshwanthpur Circle,60,-0.043309214166835815,-1,0,0.32666666666666666,E1 equal60 x1.5 center
+center_weighted,60,2,Tumkur Road,60,-0.0012766662001978287,0,0,0.18183333333333332,E1 equal60 x1.5 center
+center_weighted,60,2,Silk Board Junction,60,-0.17579306427221408,-6,7,1.1326666666666667,E1 equal60 x1.5 center
+center_weighted,60,2,Hosur Road,60,-1.4818258648569108e-05,0,0,0.0,E1 equal60 x1.5 center
+uniform,60,0,100 Feet Road,60,-0.025121519982599504,-3,0,0.024374999999999997,cap x1.25 equal60 uniform
+uniform,60,0,CMH Road,60,-0.6078041504037842,0,7,1.000909090909091,cap x1.25 equal60 uniform
+uniform,60,0,Marathahalli Bridge,60,-0.16295796731518275,-6,0,0.5236363636363637,cap x1.25 equal60 uniform
+uniform,60,0,ITPL Main Road,60,-0.0017107595581272205,0,0,0.18522727272727274,cap x1.25 equal60 uniform
+uniform,60,0,Sony World Junction,60,-0.488415879765879,-8,8,0.5671022727272728,cap x1.25 equal60 uniform
+uniform,60,0,Sarjapur Road,60,-0.09234897766899622,-3,0,0.6436363636363637,cap x1.25 equal60 uniform
+uniform,60,0,Trinity Circle,60,-0.5792357370012208,-9,5,0.8737878787878787,cap x1.25 equal60 uniform
+uniform,60,0,Anil Kumble Circle,60,-0.49050119269566067,-7,5,0.88,cap x1.25 equal60 uniform
+uniform,60,0,Jayanagar 4th Block,60,-0.03159619968601867,0,6,0.36150000000000004,cap x1.25 equal60 uniform
+uniform,60,0,South End Circle,60,-0.027451397859943123,0,11,0.395,cap x1.25 equal60 uniform
+uniform,60,0,Ballari Road / Hebbal Flyover,60,-0.25089838277182036,-6,3,0.3466666666666667,cap x1.25 equal60 uniform
+uniform,60,0,Yeshwanthpur Circle,60,-0.07287312269187093,-4,0,0.49733333333333335,cap x1.25 equal60 uniform
+uniform,60,0,Tumkur Road,60,-0.004482593151259766,0,0,0.24783333333333335,cap x1.25 equal60 uniform
+uniform,60,0,Silk Board Junction,60,-0.10103584874200615,1,7,1.3026666666666666,cap x1.25 equal60 uniform
+uniform,60,0,Hosur Road,60,-6.527821184202987e-05,0,0,0.0,cap x1.25 equal60 uniform
+uniform,60,1,100 Feet Road,60,-0.06153243483553586,-2,0,0.03375,cap x1.25 equal60 uniform
+uniform,60,1,CMH Road,60,-0.535449932486821,0,13,1.0963636363636364,cap x1.25 equal60 uniform
+uniform,60,1,Marathahalli Bridge,60,-0.07463376180094836,-3,0,0.24159090909090908,cap x1.25 equal60 uniform
+uniform,60,1,ITPL Main Road,60,0.009075644733818026,-1,0,0.11738636363636364,cap x1.25 equal60 uniform
+uniform,60,1,Sony World Junction,60,-0.2786126932077487,-13,15,0.6380113636363636,cap x1.25 equal60 uniform
+uniform,60,1,Sarjapur Road,60,-0.3416526672451195,-13,2,0.7381818181818182,cap x1.25 equal60 uniform
+uniform,60,1,Trinity Circle,60,-0.3619368157933868,-4,4,1.0463636363636364,cap x1.25 equal60 uniform
+uniform,60,1,Anil Kumble Circle,60,-0.06188496991335987,-8,7,0.804375,cap x1.25 equal60 uniform
+uniform,60,1,Jayanagar 4th Block,60,-0.0038536215852954937,0,0,0.348,cap x1.25 equal60 uniform
+uniform,60,1,South End Circle,60,-0.058307702437937016,0,4,0.325,cap x1.25 equal60 uniform
+uniform,60,1,Ballari Road / Hebbal Flyover,60,-0.33021648161031336,0,2,0.304,cap x1.25 equal60 uniform
+uniform,60,1,Yeshwanthpur Circle,60,-0.025846928160413174,-2,0,0.44,cap x1.25 equal60 uniform
+uniform,60,1,Tumkur Road,60,-0.0032383441595079023,0,0,0.1655,cap x1.25 equal60 uniform
+uniform,60,1,Silk Board Junction,60,-0.27307128181985707,-4,0,1.3713333333333335,cap x1.25 equal60 uniform
+uniform,60,1,Hosur Road,60,-0.00010174298492351161,0,0,0.02,cap x1.25 equal60 uniform
+uniform,60,0,100 Feet Road,60,-0.039890624972341936,-5,0,0.024374999999999997,cap x2.00 equal60 uniform
+uniform,60,0,CMH Road,60,-0.9661415937746233,-13,24,1.000909090909091,cap x2.00 equal60 uniform
+uniform,60,0,Marathahalli Bridge,60,-0.26640444002319924,-7,0,0.5236363636363637,cap x2.00 equal60 uniform
+uniform,60,0,ITPL Main Road,60,-0.002716526229292076,0,0,0.18522727272727274,cap x2.00 equal60 uniform
+uniform,60,0,Sony World Junction,60,-0.7488572894188423,-15,28,0.5671022727272728,cap x2.00 equal60 uniform
+uniform,60,0,Sarjapur Road,60,-0.12044368902977258,-4,6,0.6436363636363637,cap x2.00 equal60 uniform
+uniform,60,0,Trinity Circle,60,-0.8826797961675172,-20,41,0.8737878787878787,cap x2.00 equal60 uniform
+uniform,60,0,Anil Kumble Circle,60,-0.8184567654818983,-27,19,0.88,cap x2.00 equal60 uniform
+uniform,60,0,Jayanagar 4th Block,60,-0.05027309975555244,0,8,0.36150000000000004,cap x2.00 equal60 uniform
+uniform,60,0,South End Circle,60,-0.13613460810897363,-3,20,0.395,cap x2.00 equal60 uniform
+uniform,60,0,Ballari Road / Hebbal Flyover,60,-0.6493096739465443,-7,10,0.3466666666666667,cap x2.00 equal60 uniform
+uniform,60,0,Yeshwanthpur Circle,60,-0.11631846553210767,-6,0,0.49733333333333335,cap x2.00 equal60 uniform
+uniform,60,0,Tumkur Road,60,-0.007117938819976791,0,0,0.24783333333333335,cap x2.00 equal60 uniform
+uniform,60,0,Silk Board Junction,60,-0.1786466892756153,-9,10,1.3026666666666666,cap x2.00 equal60 uniform
+uniform,60,0,Hosur Road,60,-0.00010365569717006802,0,0,0.0,cap x2.00 equal60 uniform
+uniform,60,1,100 Feet Road,60,-0.09333594211496758,-3,0,0.03375,cap x2.00 equal60 uniform
+uniform,60,1,CMH Road,60,-1.4297991678955069,-9,24,1.0963636363636364,cap x2.00 equal60 uniform
+uniform,60,1,Marathahalli Bridge,60,-0.11805621490644659,-3,0,0.24159090909090908,cap x2.00 equal60 uniform
+uniform,60,1,ITPL Main Road,60,0.00803638442990232,-1,0,0.11738636363636364,cap x2.00 equal60 uniform
+uniform,60,1,Sony World Junction,60,-0.772692883716718,-36,33,0.6380113636363636,cap x2.00 equal60 uniform
+uniform,60,1,Sarjapur Road,60,-0.5132315504872481,-21,7,0.7381818181818182,cap x2.00 equal60 uniform
+uniform,60,1,Trinity Circle,60,-0.5694943938695991,-21,11,1.0463636363636364,cap x2.00 equal60 uniform
+uniform,60,1,Anil Kumble Circle,60,-0.43904172804056313,-31,17,0.804375,cap x2.00 equal60 uniform
+uniform,60,1,Jayanagar 4th Block,60,-0.006119190779489609,0,0,0.348,cap x2.00 equal60 uniform
+uniform,60,1,South End Circle,60,-0.09942529401210216,-7,21,0.325,cap x2.00 equal60 uniform
+uniform,60,1,Ballari Road / Hebbal Flyover,60,-0.5830319857025249,0,7,0.304,cap x2.00 equal60 uniform
+uniform,60,1,Yeshwanthpur Circle,60,-0.04104250533601715,-3,0,0.44,cap x2.00 equal60 uniform
+uniform,60,1,Tumkur Road,60,-0.005142187753242613,0,0,0.1655,cap x2.00 equal60 uniform
+uniform,60,1,Silk Board Junction,60,-0.3605322735301045,-17,7,1.3713333333333335,cap x2.00 equal60 uniform
+uniform,60,1,Hosur Road,60,-0.00016155834749212604,0,0,0.02,cap x2.00 equal60 uniform
+uniform,60,0,100 Feet Road,30,-0.020458606697037918,-3,0,0.024374999999999997,K=30 x1.5 uniform
+uniform,60,0,CMH Road,30,-0.711627234952924,-4,28,1.000909090909091,K=30 x1.5 uniform
+uniform,60,0,Marathahalli Bridge,30,-0.07577628946868083,-4,0,0.5236363636363637,K=30 x1.5 uniform
+uniform,60,0,ITPL Main Road,30,-0.0014970309316679762,0,0,0.18522727272727274,K=30 x1.5 uniform
+uniform,60,0,Sony World Junction,30,-0.10564617272411916,-7,16,0.5671022727272728,K=30 x1.5 uniform
+uniform,60,0,Sarjapur Road,30,-0.019342560174932376,-1,0,0.6436363636363637,K=30 x1.5 uniform
+uniform,60,0,Trinity Circle,30,-0.6440462682752397,-12,12,0.8737878787878787,K=30 x1.5 uniform
+uniform,60,0,Anil Kumble Circle,30,-0.3864444961828771,-9,1,0.88,K=30 x1.5 uniform
+uniform,60,0,Jayanagar 4th Block,30,-0.032654153580669025,0,8,0.36150000000000004,K=30 x1.5 uniform
+uniform,60,0,South End Circle,30,-0.07158923223950228,-1,6,0.395,K=30 x1.5 uniform
+uniform,60,0,Ballari Road / Hebbal Flyover,30,-0.02021462052896047,-4,0,0.3466666666666667,K=30 x1.5 uniform
+uniform,60,0,Yeshwanthpur Circle,30,-0.015403297645444753,0,0,0.49733333333333335,K=30 x1.5 uniform
+uniform,60,0,Tumkur Road,30,-0.00405249021221037,0,0,0.24783333333333335,K=30 x1.5 uniform
+uniform,60,0,Silk Board Junction,30,-0.012608932167865156,-1,0,1.3026666666666666,K=30 x1.5 uniform
+uniform,60,0,Hosur Road,30,-5.8594008445481776e-05,0,0,0.0,K=30 x1.5 uniform
+uniform,60,1,100 Feet Road,30,-0.06253376841699568,-1,0,0.03375,K=30 x1.5 uniform
+uniform,60,1,CMH Road,30,-1.0036481816393015,3,32,1.0963636363636364,K=30 x1.5 uniform
+uniform,60,1,Marathahalli Bridge,30,-0.062478275955418966,-2,0,0.24159090909090908,K=30 x1.5 uniform
+uniform,60,1,ITPL Main Road,30,0.009013474481633062,-1,0,0.11738636363636364,K=30 x1.5 uniform
+uniform,60,1,Sony World Junction,30,-0.1249571562966047,-10,8,0.6380113636363636,K=30 x1.5 uniform
+uniform,60,1,Sarjapur Road,30,-0.08048347057406392,-11,1,0.7381818181818182,K=30 x1.5 uniform
+uniform,60,1,Trinity Circle,30,-0.426153571178891,-4,3,1.0463636363636364,K=30 x1.5 uniform
+uniform,60,1,Anil Kumble Circle,30,-0.1361371565035747,-7,13,0.804375,K=30 x1.5 uniform
+uniform,60,1,Jayanagar 4th Block,30,-0.003745778752055142,0,0,0.348,K=30 x1.5 uniform
+uniform,60,1,South End Circle,30,-0.03442349522348347,-4,18,0.325,K=30 x1.5 uniform
+uniform,60,1,Ballari Road / Hebbal Flyover,30,-0.04024468300858816,-2,0,0.304,K=30 x1.5 uniform
+uniform,60,1,Yeshwanthpur Circle,30,-0.008949746467228618,0,0,0.44,K=30 x1.5 uniform
+uniform,60,1,Tumkur Road,30,-0.003471147876395169,0,0,0.1655,K=30 x1.5 uniform
+uniform,60,1,Silk Board Junction,30,-0.038173237590046025,-6,0,1.3713333333333335,K=30 x1.5 uniform
+uniform,60,1,Hosur Road,30,-5.110495004381395e-06,0,0,0.02,K=30 x1.5 uniform
+uniform,60,0,100 Feet Road,120,-1.0331307273824688,-12,14,0.024374999999999997,K=120 x1.5 uniform
+uniform,60,0,CMH Road,120,-2.1285538713532026,-24,44,1.000909090909091,K=120 x1.5 uniform
+uniform,60,0,Marathahalli Bridge,120,-0.2816770743501107,-9,0,0.5236363636363637,K=120 x1.5 uniform
+uniform,60,0,ITPL Main Road,120,-0.00504166873053373,0,0,0.18522727272727274,K=120 x1.5 uniform
+uniform,60,0,Sony World Junction,120,-0.7852859072529704,-24,48,0.5671022727272728,K=120 x1.5 uniform
+uniform,60,0,Sarjapur Road,120,-0.2715662602697785,-13,5,0.6436363636363637,K=120 x1.5 uniform
+uniform,60,0,Trinity Circle,120,-0.9694779645767867,-22,54,0.8737878787878787,K=120 x1.5 uniform
+uniform,60,0,Anil Kumble Circle,120,-1.747940279533405,-24,19,0.88,K=120 x1.5 uniform
+uniform,60,0,Jayanagar 4th Block,120,-0.08709476762190801,-7,6,0.36150000000000004,K=120 x1.5 uniform
+uniform,60,0,South End Circle,120,-0.42056833630835067,-16,12,0.395,K=120 x1.5 uniform
+uniform,60,0,Ballari Road / Hebbal Flyover,120,-0.6238219187168509,-11,4,0.3466666666666667,K=120 x1.5 uniform
+uniform,60,0,Yeshwanthpur Circle,120,-0.2576377035236383,-11,2,0.49733333333333335,K=120 x1.5 uniform
+uniform,60,0,Tumkur Road,120,-0.1673212191176241,-7,0,0.24783333333333335,K=120 x1.5 uniform
+uniform,60,0,Silk Board Junction,120,-0.32746865632138716,-10,2,1.3026666666666666,K=120 x1.5 uniform
+uniform,60,0,Hosur Road,120,-0.04383168006588808,-2,0,0.0,K=120 x1.5 uniform
+uniform,60,1,100 Feet Road,120,-1.2113988132435196,-7,12,0.03375,K=120 x1.5 uniform
+uniform,60,1,CMH Road,120,-2.5948986603145707,-22,32,1.0963636363636364,K=120 x1.5 uniform
+uniform,60,1,Marathahalli Bridge,120,-0.13415596836544647,-4,0,0.24159090909090908,K=120 x1.5 uniform
+uniform,60,1,ITPL Main Road,120,0.006752029382486179,-1,0,0.11738636363636364,K=120 x1.5 uniform
+uniform,60,1,Sony World Junction,120,-0.8786276125657606,-44,61,0.6380113636363636,K=120 x1.5 uniform
+uniform,60,1,Sarjapur Road,120,-0.6691994555331636,-31,6,0.7381818181818182,K=120 x1.5 uniform
+uniform,60,1,Trinity Circle,120,-0.5597176622653922,-22,4,1.0463636363636364,K=120 x1.5 uniform
+uniform,60,1,Anil Kumble Circle,120,-0.9625365816864521,-28,28,0.804375,K=120 x1.5 uniform
+uniform,60,1,Jayanagar 4th Block,120,-0.05617962006143473,-6,0,0.348,K=120 x1.5 uniform
+uniform,60,1,South End Circle,120,-0.6659196769329989,-8,46,0.325,K=120 x1.5 uniform
+uniform,60,1,Ballari Road / Hebbal Flyover,120,-0.6464473035855325,1,5,0.304,K=120 x1.5 uniform
+uniform,60,1,Yeshwanthpur Circle,120,-0.13863490345426197,-2,1,0.44,K=120 x1.5 uniform
+uniform,60,1,Tumkur Road,120,-0.05114626083239244,-2,0,0.1655,K=120 x1.5 uniform
+uniform,60,1,Silk Board Junction,120,-0.716491317272478,-31,1,1.3713333333333335,K=120 x1.5 uniform
+uniform,60,1,Hosur Road,120,-0.48005628378448845,-14,3,0.02,K=120 x1.5 uniform
+uniform,60,0,100 Feet Road,60,-0.03414506170468078,-5,0,0.024374999999999997,ref equal60 x1.5 uniform + random control
+uniform,60,0,CMH Road,60,-0.7968552549144139,-8,22,1.000909090909091,ref equal60 x1.5 uniform + random control
+uniform,60,0,Marathahalli Bridge,60,-0.22616109053329822,-7,0,0.5236363636363637,ref equal60 x1.5 uniform + random control
+uniform,60,0,ITPL Main Road,60,-0.002325257019308068,0,0,0.18522727272727274,ref equal60 x1.5 uniform + random control
+uniform,60,0,Sony World Junction,60,-0.6203310861583755,-11,25,0.5671022727272728,ref equal60 x1.5 uniform + random control
+uniform,60,0,Sarjapur Road,60,-0.09848415824347605,-3,6,0.6436363636363637,ref equal60 x1.5 uniform + random control
+uniform,60,0,Trinity Circle,60,-0.6925495136454156,-13,22,0.8737878787878787,ref equal60 x1.5 uniform + random control
+uniform,60,0,Anil Kumble Circle,60,-0.6553973406207275,-13,6,0.88,ref equal60 x1.5 uniform + random control
+uniform,60,0,Jayanagar 4th Block,60,-0.03753537425050061,0,8,0.36150000000000004,ref equal60 x1.5 uniform + random control
+uniform,60,0,South End Circle,60,-0.09754888100134111,-1,11,0.395,ref equal60 x1.5 uniform + random control
+uniform,60,0,Ballari Road / Hebbal Flyover,60,-0.4774579583915989,-7,5,0.3466666666666667,ref equal60 x1.5 uniform + random control
+uniform,60,0,Yeshwanthpur Circle,60,-0.09941710514873732,-5,0,0.49733333333333335,ref equal60 x1.5 uniform + random control
+uniform,60,0,Tumkur Road,60,-0.006092721294472052,0,0,0.24783333333333335,ref equal60 x1.5 uniform + random control
+uniform,60,0,Silk Board Junction,60,-0.15901761505860632,-5,7,1.3026666666666666,ref equal60 x1.5 uniform + random control
+uniform,60,0,Hosur Road,60,-8.872586424043589e-05,0,0,0.0,ref equal60 x1.5 uniform + random control
+uniform,60,0,rand_0,60,-0.8118411897040619,-21,49,1.089375,ref equal60 x1.5 uniform + random control
+uniform,60,0,rand_1,60,-0.016526236790459985,0,5,0.463125,ref equal60 x1.5 uniform + random control
+uniform,60,0,rand_2,60,-0.7968552549144139,-8,22,1.492727272727273,ref equal60 x1.5 uniform + random control
+uniform,60,0,rand_3,60,-0.015821305552635407,-5,0,0.10625,ref equal60 x1.5 uniform + random control
+uniform,60,0,rand_4,60,-0.10059120455681371,-5,0,0.3518181818181818,ref equal60 x1.5 uniform + random control
+uniform,60,0,rand_5,60,-0.1217261916464325,-6,10,0.2525,ref equal60 x1.5 uniform + random control
+uniform,60,0,rand_6,60,-0.0015568355274085009,0,0,0.24015151515151514,ref equal60 x1.5 uniform + random control
+uniform,60,0,rand_7,60,-0.15707046591834178,-9,2,0.0375,ref equal60 x1.5 uniform + random control
+uniform,60,0,rand_8,60,-0.008193445929977637,0,0,0.035625000000000004,ref equal60 x1.5 uniform + random control
+uniform,60,0,rand_9,60,-0.066614530299568,-7,4,0.02125,ref equal60 x1.5 uniform + random control
+uniform,60,0,rand_10,60,-1.5196303199681045,-16,87,1.0696969696969696,ref equal60 x1.5 uniform + random control
+uniform,60,0,rand_11,60,-0.09073005049854393,-7,2,0.125,ref equal60 x1.5 uniform + random control
+uniform,60,0,rand_12,60,-0.05324041344315827,-12,0,0.9313636363636364,ref equal60 x1.5 uniform + random control
+uniform,60,0,rand_13,60,-8.898330106780766e-05,0,0,0.09333333333333334,ref equal60 x1.5 uniform + random control
+uniform,60,0,rand_14,60,-0.2236620842012632,-18,0,0.172,ref equal60 x1.5 uniform + random control
+uniform,60,1,100 Feet Road,60,-0.08096355642658652,-3,0,0.03375,ref equal60 x1.5 uniform + random control
+uniform,60,1,CMH Road,60,-1.0591266894470133,-1,23,1.0963636363636364,ref equal60 x1.5 uniform + random control
+uniform,60,1,Marathahalli Bridge,60,-0.10116375922099549,-3,0,0.24159090909090908,ref equal60 x1.5 uniform + random control
+uniform,60,1,ITPL Main Road,60,0.008440683527988735,-1,0,0.11738636363636364,ref equal60 x1.5 uniform + random control
+uniform,60,1,Sony World Junction,60,-0.522259706071267,-27,31,0.6380113636363636,ref equal60 x1.5 uniform + random control
+uniform,60,1,Sarjapur Road,60,-0.4539029196151285,-21,2,0.7381818181818182,ref equal60 x1.5 uniform + random control
+uniform,60,1,Trinity Circle,60,-0.4308561457317643,-11,4,1.0463636363636364,ref equal60 x1.5 uniform + random control
+uniform,60,1,Anil Kumble Circle,60,-0.2439867837872602,-14,7,0.804375,ref equal60 x1.5 uniform + random control
+uniform,60,1,Jayanagar 4th Block,60,-0.0052378258524235066,0,0,0.348,ref equal60 x1.5 uniform + random control
+uniform,60,1,South End Circle,60,-0.07912517834170336,-4,20,0.325,ref equal60 x1.5 uniform + random control
+uniform,60,1,Ballari Road / Hebbal Flyover,60,-0.48945818135741387,0,4,0.304,ref equal60 x1.5 uniform + random control
+uniform,60,1,Yeshwanthpur Circle,60,-0.03513103337408189,-2,0,0.44,ref equal60 x1.5 uniform + random control
+uniform,60,1,Tumkur Road,60,-0.0044015434266874535,0,0,0.1655,ref equal60 x1.5 uniform + random control
+uniform,60,1,Silk Board Junction,60,-0.33120997274796465,-15,6,1.3713333333333335,ref equal60 x1.5 uniform + random control
+uniform,60,1,Hosur Road,60,-0.00013828862668322533,0,0,0.02,ref equal60 x1.5 uniform + random control
+uniform,60,1,rand_0,60,-0.3970444436237665,-13,19,0.92625,ref equal60 x1.5 uniform + random control
+uniform,60,1,rand_1,60,-0.0043850486360852365,0,0,0.159375,ref equal60 x1.5 uniform + random control
+uniform,60,1,rand_2,60,-1.0591266894470133,-1,23,1.389090909090909,ref equal60 x1.5 uniform + random control
+uniform,60,1,rand_3,60,-0.0003243163180811124,0,0,0.043750000000000004,ref equal60 x1.5 uniform + random control
+uniform,60,1,rand_4,60,-0.11287890838195053,-5,0,0.37636363636363634,ref equal60 x1.5 uniform + random control
+uniform,60,1,rand_5,60,0.025579181642721455,-8,7,0.145,ref equal60 x1.5 uniform + random control
+uniform,60,1,rand_6,60,-0.002741474602505295,-1,0,0.07272727272727272,ref equal60 x1.5 uniform + random control
+uniform,60,1,rand_7,60,-0.10049990079058148,-2,1,0.1275,ref equal60 x1.5 uniform + random control
+uniform,60,1,rand_8,60,-0.02539468933290038,-4,0,0.04875,ref equal60 x1.5 uniform + random control
+uniform,60,1,rand_9,60,-0.05104959283026397,-5,1,0.0062499999999999995,ref equal60 x1.5 uniform + random control
+uniform,60,1,rand_10,60,-1.5965101691379644,-17,75,0.9546969696969697,ref equal60 x1.5 uniform + random control
+uniform,60,1,rand_11,60,-0.08477248976538902,-2,2,0.055,ref equal60 x1.5 uniform + random control
+uniform,60,1,rand_12,60,-0.20310640849478917,-12,0,0.8768181818181818,ref equal60 x1.5 uniform + random control
+uniform,60,1,rand_13,60,-0.000138288654880619,0,0,0.08,ref equal60 x1.5 uniform + random control
+uniform,60,1,rand_14,60,-0.2772934168802421,-7,1,0.276,ref equal60 x1.5 uniform + random control
