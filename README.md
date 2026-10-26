@@ -1,6 +1,6 @@
 # Bengaluru bottleneck framework
 
-Code and results for **"A Data-Driven Framework for Identifying and Evaluating Congestion Bottlenecks in Bengaluru under Sparse Traffic Data"** [authors, venue, year].
+Code and results for **"A Data-Driven Framework for Identifying and Evaluating Congestion Bottlenecks in Bengaluru under Sparse Traffic Data"**.
 
 The framework combines the OpenStreetMap road network with traffic observations from 16 monitored locations (a public Kaggle dataset) to rank bottleneck candidates (betweenness centrality plus observed congestion), and tests how adding road capacity near each site changes simulated network travel time. It is a building block for work with richer data, not a validated planning tool.
 
