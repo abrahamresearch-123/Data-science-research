@@ -12,7 +12,7 @@ The framework combines the OpenStreetMap road network with traffic observations 
 | `full_run.py` | Centrality, priority score, baseline simulation, scenario tests | 25 min | `full_run_*.csv` (5 files) |
 | `results_plus.py` | Robustness checks and random-site control | 35-40 min | `results_plus_*.csv` (2 files) |
 
-All output CSVs are in `results/`.
+All output CSVs are in `Results`.
 
 ## Run (Google Colab)
 
