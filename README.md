@@ -17,7 +17,7 @@ All output CSVs are in `Results`.
 ## Run (Google Colab)
 
 1. `!pip install osmnx pandas==2.2.3 -q`, then restart the runtime.
-2. Download the dataset from Kaggle ("Bangalore Traffic Pulse") and upload `Banglore_traffic_Dataset.csv` to Colab. It is not included here.
+2. Download the dataset from Kaggle ("Bangalore Traffic Pulse" https://www.kaggle.com/datasets/preethamgouda/banglore-city-traffic-dataset) and upload `Banglore_traffic_Dataset.csv` to Colab. It is not included here.
 3. Paste a script into a cell and run it.
 
 Requirements: Python 3, `osmnx`, `networkx`, `pandas`, `numpy`, `scipy`, and internet access. Versions used: 2.1.1, 3.7, 2.2.3, 2.1.3, 1.16.3
